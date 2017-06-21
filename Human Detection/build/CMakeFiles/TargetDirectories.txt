@@ -1,0 +1,3 @@
+/home/ubuntu/testdir/code/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/testdir/code/build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/testdir/code/build/CMakeFiles/cv_detection.dir
